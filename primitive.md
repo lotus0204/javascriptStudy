@@ -3,7 +3,7 @@
 - 원시 타입은 변경 불가능한 값이다.
 - 원시 값을 변수에 저장하면 확보된 메모리 공간에 실제 값이 저장된다.
 - 원시 값을 갖는 변수를 다른 변수에 할당하면 원본의 원시 값이 복사되어 전달된다.(값에 의한 전달)
-- string, number, bigint, boolean, undefined, symbol이 있다.
+- string, number, boolean, undefined, symbol, null이 있다.
 
 ```js
 var name = "Kim";
